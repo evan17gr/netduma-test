@@ -1,3 +1,5 @@
 I lost a lot of time trying to access the localstorage in my deleteAccount component, and because of that I wasn't able to implement the delete function which I could easily by filtering the array, but I wasn't able to map out all the objects in the array unfortunately. Also the search functionality I didn't really try it, because I was stuck in the delete function, but again I would just have to filter the array based on the letter or number given to me. In conclusion I wasted too much time on the delete function.
 
 If I had more time to do this task, of course I would finish up the other 2 functionalities and add some styling. Also I would probably try and add some better validation as well.
+
+By the way I've used a node package called react-router-dom , if you want to install it use npm i react-router-dom
